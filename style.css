@@ -1,0 +1,35 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+*{
+    font-family: 'Caveat', 'Arial'
+}
+
+main{
+    width: 500px;
+    padding: 10px;
+    background-color: antiquewhite;
+    margin: auto;
+    border-radius: 10px;
+}
+
+body{
+    background-image: linear-gradient(to top, #835F99, #A293BF);
+    background-attachment: fixed;
+}
+
+h1{
+text-align: center;
+color: #835F99;
+}
+
+h2{
+color: #72F287;
+}
+
+h3{
+    color: #5BBF6C;
+}
+
+p{
+    color: #838C7A;
+}
